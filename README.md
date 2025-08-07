@@ -1,4 +1,13 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/Sx8Ozf2d)
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/3TsFj7A-)
+
+# Estudiante
+- **Nombre:** Laura Catalina Hernández Rodríguez
+- **Código:** 0000337853
+- **Correo:** lauraherrod@unisabana.edu.co
+
+## Enlace de despliegue (GitHub Pages)
+[Ver página desplegada]()
+
 # Bienvenidos a la Tarea de HTML y CSS
 
 ¡Hola a todos!
