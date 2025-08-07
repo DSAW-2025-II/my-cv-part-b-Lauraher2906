@@ -8,6 +8,9 @@
 ## Enlace de despliegue (GitHub Pages)
 [Ver página desplegada]()
 
+## Pantallazo de realización del juego del Sushi
+![Sushi game solution](img/sushi-game.png)
+
 # Bienvenidos a la Tarea de HTML y CSS
 
 ¡Hola a todos!
