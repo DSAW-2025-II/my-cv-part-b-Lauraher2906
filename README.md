@@ -6,10 +6,10 @@
 - **Correo:** lauraherrod@unisabana.edu.co
 
 ## Enlace de despliegue (GitHub Pages)
-[Ver página desplegada]()
+[Ver página desplegada](https://dsaw-2025-ii.github.io/my-cv-part-b-Lauraher2906/)
 
 ## Pantallazo de realización del juego del Sushi
-![Sushi game solution](img/sushi-game.png)
+![Sushi game solution](sushi-game.png)
 
 # Bienvenidos a la Tarea de HTML y CSS
 
